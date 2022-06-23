@@ -1,0 +1,49 @@
+.cjImgPg1{
+  display: flex;
+  justify-content: center;
+}
+.imgMpag1{
+  height: 120px;
+  margin: 30px;
+}
+.h4Headpg1{
+  margin: 35px 0 0 0;
+}
+.pHeadpg1{
+  margin-right: 220px;
+  margin-left: 0;
+}
+.imgSpag1{
+  height: 100px;
+  width: 100px;
+}
+.imgLpag1{
+  height: 235px;
+  width: 600px;
+  padding: 30px 0 0 0;
+}
+.cj2pag1{
+  color: aliceblue;
+}
+.cj3pag1{
+  background-color: var(--clr-darkgrey);
+  padding-bottom: 8px;
+}
+.cjSpag1{
+  padding-top: 15px;
+  color: white;
+}
+.cjSpag1 h6{
+  padding-top:8px ;
+}
+.cjSpag1 p{
+  font-size: 14px;
+}
+.jcc{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mx-xx{
+  margin: 0 115px;
+}

@@ -1,0 +1,32 @@
+@import url(stylesInicio.css);
+@import url(stylesPg1.css);
+@import url(stylesPg2.css);
+@import url(stylesPg3.css);
+@import url(stylesPg4.css);
+@import url(stylesPg5.css);
+@import url(stylesPg6.css);
+@import url(stylesPg7.css);
+@import url(stylesPg8.css);
+:root{
+    --clr-black:rgb(32, 29, 29);
+    --clr-darkgrey:rgb(72, 72, 72);
+    --clr-grey:rgb(108, 104, 104);
+    --clr-ligthgrey:gray;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: var(--clr-grey);
+    border-bottom: 1px solid black;
+}
+main{
+    background-color: var(--clr-black);
+}
+.grey{
+    background-color: var(--clr-grey);
+}

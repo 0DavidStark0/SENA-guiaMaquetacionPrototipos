@@ -1,0 +1,21 @@
+.imgBuscardor{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/maquetacionHtmlCss/images/img1LG.png);
+  background-size: contain;
+  height: 500px;
+}
+.imgBuscardorForm{
+  width: 500px;
+}
+.imgMpg6{
+  height: 250px;
+  width: 250px;
+}
+.imgSpg6{
+  height: 70px;
+}
+.pSpg6{
+  font-size: 12px;
+}

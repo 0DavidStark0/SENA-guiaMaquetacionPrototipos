@@ -1,0 +1,25 @@
+.darkgrey{
+  background-color: var(--clr-darkgrey);
+}
+.cajaInit{
+  height: 300px;
+}
+.caja2Init{
+  background-color: var(--clr-ligthgrey);
+}
+.cajaSm{
+  height: 150px;
+  padding: 25px 20px;
+}
+.img1Init{
+  height: 150px;
+  margin: 20px;
+}
+.h4Init{
+  margin: 0 20px;
+}
+.p1Init{
+  font-size: 14px;
+  margin: 20px;
+  margin-top: 0;
+}

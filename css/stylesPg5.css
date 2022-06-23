@@ -1,0 +1,17 @@
+.cjUlPg5{
+  display: flex;
+}
+.ulPg5{
+  line-height: 45px;
+}
+.liPg5{
+  color: beige;
+  list-style: none;
+}
+.liPg5:hover{
+  background-color: orangered;
+  cursor: pointer;
+}
+.imgPg5{
+  height: 140px;
+}

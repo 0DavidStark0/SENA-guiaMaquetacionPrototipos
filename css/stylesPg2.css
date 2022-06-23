@@ -1,0 +1,37 @@
+.cj1pg2{
+  color: aliceblue;
+}
+.cj1pg2 h6{
+  margin-top: 25px;
+}
+.img1pg2{
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  margin: 25px 0;
+}
+.cj2pg2{
+  height: 500px;
+  background-image: url(../images/img1LG.png);
+  background-size: contain;
+}
+.img2pg2{
+  height: 80px;
+}
+.cj3pg2{
+  padding: 20px 0;
+}
+.cj2col1pg2 p{
+  font-size: 20px;
+  color: aliceblue;
+}
+.cj2col2pg2{
+  color: aliceblue;
+  font-size: 12px;
+  text-align: justify;
+  padding: 0 10px;
+}
+.cj2col2cl2pg2{
+  display: flex;
+  justify-content: space-between;
+}
